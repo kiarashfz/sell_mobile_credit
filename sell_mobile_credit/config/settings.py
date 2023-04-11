@@ -20,7 +20,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-sqqf8slkv_=7hq5^i=ngjlz$&z#ww6xx6(8vae0c3m7w&l0!9i'
+SECRET_KEY = 'django-insecure-0zgrmw3k=)oqhqawk*8b$02h_pd69b0l*9v=#pls!!n)r%e$*m'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'sell_mobile_credit.wsgi.application'
+WSGI_APPLICATION = 'config.wsgi.application'
 
 
 # Database
