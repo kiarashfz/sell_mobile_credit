@@ -50,6 +50,8 @@ INSTALLED_APPS = [
 
     # registered apps
     'core',
+    'sellers',
+    'phones',
 ]
 
 MIDDLEWARE = [
